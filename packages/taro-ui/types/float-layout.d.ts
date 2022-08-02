@@ -1,5 +1,5 @@
 /* eslint-disable no-restricted-globals */
-import { ComponentClass } from 'react'
+import { ComponentClass, ReactNode } from 'react'
 import { CommonEventFunction } from '@tarojs/components/types/common'
 
 import AtComponent from './base'
@@ -13,7 +13,7 @@ export interface AtFloatLayoutProps extends AtComponent {
   /**
    * 元素的标题
    */
-  title?: string
+  title?: ReactNode
   /**
    * 是否垂直滚动
    * @default true

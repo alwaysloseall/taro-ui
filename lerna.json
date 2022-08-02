@@ -9,7 +9,7 @@
       "message": "chore(release): publish %s"
     },
     "create": {
-      "homepage": "https://github.com/nervjs/taro-ui",
+      "homepage": "https://github.com/alwaysloseall/taro-ui",
       "license": "MIT"
     }
   },

@@ -3,11 +3,11 @@
   "name": "taro-ui-docs",
   "version": "3.0.0-alpha.10",
   "description": "Taro UI docs",
-  "author": "O2Team <aotu.io>",
-  "homepage": "https://taro-ui.aotu.io",
+  "author": "O2Team <aotu.io> & dahaolee",
+  "homepage": "https://github.com/alwaysloseall/taro-ui",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nervjs/taro-ui.git"
+    "url": "git@github.com:alwaysloseall/taro-ui.git"
   },
   "license": "MIT",
   "scripts": {
